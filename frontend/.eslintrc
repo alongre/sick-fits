@@ -1,0 +1,8 @@
+{
+	"plugins": ["@typescript-eslint"],
+	"rules": {
+		"react/jsx-filename-extension": [2, { "extensions": [".js", ".jsx", ".ts", ".tsx"] }],
+		"semi": ["error", "never"],
+		"quotes": [2, "single"]
+	}
+}
